@@ -1,0 +1,23 @@
+{
+  "name": "hello-font",
+  "version": "1.0.0",
+  "description": "A collection of SVG icons for web and mobile applications.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rayan2162/hello-font.git"
+  },
+  "keywords": [
+    "icon",
+    "icons"
+  ],
+  "author": "Rayan2162",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rayan2162/hello-font/issues"
+  },
+  "homepage": "https://github.com/rayan2162/hello-font#readme"
+}
